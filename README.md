@@ -1,6 +1,12 @@
-# Animal Image Classification using CNN
 
-For our module 4 project, my partner [Vicente](https://github.com/vaeb80) and I wanted to create an image classifier using deep learning. 
+
+#Group Members:
+Aditya Hegde - 2GI17CS004
+Amodh B - - 2GI17CS014
+Manjunath C - 2GI17CS065
+Kiran H -2GI17CS052
+
+# Animal Image Classification using CNN
 
 ### Purpose:
 
